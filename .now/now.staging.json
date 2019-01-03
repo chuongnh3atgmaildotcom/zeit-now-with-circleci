@@ -2,5 +2,5 @@
     "name": "circleci-with-zeith-now-staging",
     "type": "npm",
     "forwardNpm": true,
-    "alias": ["staging-circleci-now.chuongevolve.com"]
+    "alias": ["chuongevolve-circleci.now.sh"]
 }
