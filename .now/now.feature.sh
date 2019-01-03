@@ -9,7 +9,7 @@ JSON=$(cat <<-EOF
     "type": "npm",
     "forwardNpm": true,
     "alias": [
-        "$CLEAN_BRANCH_NAME-circleci-now.niccai.com"
+        "$CLEAN_BRANCH_NAME-chuongevolve-circleci-.now.sh"
     ]
 }
 EOF
